@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.db
+*.db-shm
+*.db-wal
+venv/
+.venv/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+.DS_Store
+
+# Alembic (keep versions, ignore pycache)
+backend/alembic/__pycache__/
